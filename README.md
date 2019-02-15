@@ -33,7 +33,7 @@ Note: In the end, I generated a clean CSV (pd.to_csv) to limit memory usage.
 What to Predict?   
 
 - Budget:  
-Database entries were strings with no repetative structure   
+Database entries were strings with no repetitive structure   
 
 - Duration:  
 Needed completed policies with populated 'start' and 'end' variables (also strings, but tame ones)
